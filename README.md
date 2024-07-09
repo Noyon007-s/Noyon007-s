@@ -1,26 +1,27 @@
-<h1 align="center">Hi 👋, I'm Noyon007-s</h1>
-<h3 align="center">Full-Stack Developer | HTML, CSS, JavaScript, and Python Enthusiast</h3>
+### Hi there 👋, I am Noyon007-s
+#### Full-Stack Developer . HTML, CSS, JavaScript, and Python Enthusiast .
+![Full-Stack Developer . HTML, CSS, JavaScript, and Python Enthusiast .](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noyon007-s&label=Profile%20views&color=0e75b6&style=flat" alt="noyon007-s" /> </p>
+Full-Stack Developer passionate about HTML, CSS, JavaScript, and Python programming. I strive for continuous learning in technology and enjoy exploring new advancements.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noyon007-s" alt="noyon007-s" /></a> </p>
+Skills: HTML/ CSS/ JavaScript/ Python/ Git/ Responsive Web Design
 
-- 🔭 I’m currently working on **Fiverr & Upwork**
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Python. 
+- 👯 I’m looking to collaborate on GitHub 
+- 🤔 I’m looking for help with All things  
+- 💬 Ask me about Web Development 
 
-- 🌱 I’m currently learning **python**
 
-- 👯 I’m looking to collaborate on **GitHub**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Noyon007-s)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](.)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/.)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/./)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/.)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/.)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/.)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](.)  
 
-- 💬 Ask me about **web development**
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- 📫 How to reach me **noyonfreelancerbd@gmail.com**
+[![trophy](https://github-profile-trophy.vercel.app/?username=Noyon007-s)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/noyon khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="noyon khan" height="30" width="40" /></a>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Noyon007-s&show_icons=true)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![GitHub metrics](https://metrics.lecoq.io/Noyon007-s)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noyon007-s&show_icons=true&locale=en" alt="noyon007-s" /></p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Noyon007-s)  
+
